@@ -13,9 +13,9 @@
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
-package sdnlb;
+package ATAS;
 
-module Localcontroller extends Globalcontoller
+module ATASManager extends EdgeAPController
 {
     parameters:
         int CPU=2;

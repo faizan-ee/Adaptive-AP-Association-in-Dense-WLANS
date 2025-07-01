@@ -13,10 +13,10 @@
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
-package sdnlb;
+package ATAS;
 
 import inet.nodes.ipv6.NodeBase6;
-module Globalcontoller extends NodeBase6
+module EdgeAPController extends NodeBase6
 {
     parameters:
         @display("i=abstract/router");
