@@ -47,11 +47,11 @@ cd ATAS
 
 ### 📦 Import into OMNeT++ IDE
 
-- 1. Open OMNeT++ IDE (version 4.6+ is recommended).
-- 2. Go to **File > Import > General > Existing Projects into Workspace**.
-- 3. Choose the root directory of the cloned project.
-- 4. Ensure the project appears under "Projects" and is checked.
-- 5. Click **Finish**. The project will be imported and compiled automatically if all dependencies are met.
+1. Open OMNeT++ IDE (version 4.6+ is recommended).
+2. Go to **File > Import > General > Existing Projects into Workspace**.
+3. Choose the root directory of the cloned project.
+4. Ensure the project appears under "Projects" and is checked.
+5. Click **Finish**. The project will be imported and compiled automatically if all dependencies are met.
 
 > 💡 Make sure `inet` or any other required external libraries are also imported and built before running this project.
 
