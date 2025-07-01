@@ -13,7 +13,7 @@
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
-package sdnlb;
+package ATAS;
 module mnipv6 extends mn6
 {
     numRadios = 1;

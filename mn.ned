@@ -13,7 +13,7 @@
 // along with this program.  If not, see http://www.gnu.org/licenses/.
 // 
 
-package sdnlb;
+package ATAS;
 
 import inet.base.NotificationBoard;
 import inet.linklayer.IExternalNic;
